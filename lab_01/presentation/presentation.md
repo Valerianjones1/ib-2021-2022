@@ -66,6 +66,11 @@ section-titles: true
 
 ## GitHub
 
+![Презентация и отчет на GitHub](image/6.png){ #fig:007 width=90% }
+
+## GitHub
+
+![Коммит и пуш в Git](image/7.png){ #fig:008 width=90% }
 
 ## {.standout}
 
