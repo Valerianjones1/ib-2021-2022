@@ -6,7 +6,7 @@ author: |
 	Valery A. Dinkiev\inst{1}
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
-date: 2 October 2021 Moscow, Russia
+date: 2 October 2021 Moscow,  Russia
 
 ## Formatting
 toc: false
